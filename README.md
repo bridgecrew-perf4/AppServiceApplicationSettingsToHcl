@@ -1,0 +1,2 @@
+# AppServiceApplicationSettingsToHcl
+Azure AppServiceのアプリケーション設定(json)をTerraformのHCLに変換する
